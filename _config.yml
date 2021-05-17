@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amanda T. Stahl / ATSpages"
+title                    : "Amanda T. Stahl"
 title_separator          : "-"
-name                     : &name "Amanda Stahl"
-description              : &description "university researcher and instructor"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Amanda T. Stahl"
+description              : &description "University researcher and instructor"
+url                      : https://ATStahl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/ATStahl/ATSpages"
+repository               : "https://github.com/ATStahl/ATStahl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "A.T.Stahl"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Washington State University"
+  bio              : "Postdoctoral researcher in ecology, remote sensing, conservation science"
+  location         : "Washington State University, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=8qB-798AAAAJ"
+  email            : "atstahl@wsu.edu" 
   researchgate     : "https://www.researchgate.net/profile/Amanda-Stahl-4"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ATStahl"
   google_plus      :
   keybase          :
   instagram        :
