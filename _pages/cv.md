@@ -56,7 +56,7 @@ Talks
 * Stahl, A.T., Fremier, A.K., Kiparsky, M., Scott, J.M., 2016. Riparian Corridor Selection for Connectivity and Ecological Resilience. Tamarisk Coalition 2016 Conference.
 
   
-Teaching
+Additional Teaching Experience
 ======
 * 2016-2021	  Guest Lecturer, various courses at Washington State University
 * Spring 2019	Graduate Teaching Assistant, Watershed Management (SOE 461), WSU
