@@ -23,7 +23,7 @@ Recent Work Experience
   * Duties included: Remote pilot and coordinator of operations for new drone in forest research lab; co-lead or collaborator for a variety of research projects related to remote sensing and applying GIS techniques in forested, agricultural, or streamside settings
   * Supervisors: Professor A. Meddens, Professor A. Fremier
 
-* Fall 2020: Instructor
+* Fall 2020, 2021: Instructor
   * Washington State University
   * Duties included: Instruction of lecture and lab sessions for a 200-level course in Environmental and Natural Resource Sciences
 
