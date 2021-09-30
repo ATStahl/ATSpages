@@ -37,6 +37,7 @@ Research Interests
 
 Recent Publications
 ======
+* Stahl, A.T. 2021. Cloud-Based Environmental Monitoring to Streamline Remote Sensing Analysis for Biologists. BioScience. Advance Article. https://doi.org/10.1093/biosci/biab100 
 * Stahl A. 2021. Mapping legal authority to build wildlife corridors along streams. Current Conservation 14.3.
 * Stahl, A.T., Fremier, A.K., and Cosens, B. (2020). Mapping legal authority for terrestrial conservation corridors along streams. Conservation Biology 34:943-955. https://doi.org/10.1111/cobi.13484
 * Stahl, A.T. 2020. Bridging the gaps in riverine corridor conservation to enhance ecological resilience. PhD Dissertation, Washington State University, August 2020.
