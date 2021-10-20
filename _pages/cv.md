@@ -25,7 +25,7 @@ Recent Work Experience
 
 * Fall 2020, 2021: Instructor
   * Washington State University
-  * Duties included: Instruction of lecture and lab sessions for a 200-level course in Environmental and Natural Resource Sciences
+  * Duties included: Curriculum development and instruction for Field Methods for Careers in Natural Sciences
 
 
 Research Interests
