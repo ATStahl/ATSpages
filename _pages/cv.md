@@ -37,7 +37,7 @@ Research Interests
 
 Recent Publications
 ======
-* Stahl, A.T. 2021. Cloud-Based Environmental Monitoring to Streamline Remote Sensing Analysis for Biologists. BioScience. Advance Article. <a href="https://doi.org/10.1093/biosci/biab100">https://doi.org/10.1093/biosci/biab100</a> with openly accessible scripts, documentation, and files in <a href="https://github.com/ATStahl/CBEM">https://github.com/ATStahl/CBEM</a> for users interested in learning the methods. Article full text is available on ResearchGate: <a href="https://tinyurl.com/StahlCBEM2021">https://tinyurl.com/StahlCBEM2021
+* Stahl, A.T. 2021. Cloud-Based Environmental Monitoring to Streamline Remote Sensing Analysis for Biologists. BioScience 71:1249-1260. Advance Article. <a href="https://doi.org/10.1093/biosci/biab100">https://doi.org/10.1093/biosci/biab100</a> with openly accessible scripts, documentation, and files in <a href="https://github.com/ATStahl/CBEM">https://github.com/ATStahl/CBEM</a> for users interested in learning the methods. Article full text is available on ResearchGate: <a href="https://tinyurl.com/StahlCBEM2021">https://tinyurl.com/StahlCBEM2021
 </a>
 * Stahl A. 2021. Mapping legal authority to build wildlife corridors along streams. Current Conservation 14.3.
 * Stahl, A.T., Fremier, A.K., and Cosens, B. (2020). Mapping legal authority for terrestrial conservation corridors along streams. Conservation Biology 34:943-955. <a href="https://doi.org/10.1111/cobi.13484">https://doi.org/10.1111/cobi.13484</a>
