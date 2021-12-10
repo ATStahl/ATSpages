@@ -47,6 +47,8 @@ Recent Publications
 
 Talks
 ======
+* Stahl, A.T. 2021. Adding Earth Engine to the conservation toolbox. Google’s Geo for good Summit 2021.
+* Stahl, A.T. 2021. Adding satellite data to the toolbox of conservation professionals with Earth Engine. Geo for Good Lightning Talks Series #5: Nature Conservation.
 * Stahl, A.T. 2021. Developing practical remote sensing workflows for ecosystem monitoring. Invited presentation at the Washington Association of District Employees Annual Meeting.
 * Stahl, A.T. 2021. Potential options for effective and efficient riparian monitoring with drone and satellite data. Invited presentation at the Eastern Washington Riparian Planting Symposium.
 * Stahl, A.T. 2020. Streamlining access to remotely sensed imagery with Google Earth Engine to increase ecosystem monitoring efficiency and effectiveness. 2020 Virtual Geo for Good Summit.
