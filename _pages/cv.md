@@ -76,18 +76,19 @@ Additional Teaching Experience
 
 Service and leadership
 ======
-* 2021-2024	  Education and Student Affairs Committee member, Society for Conservation Biology
-* 2021	      Advisory Working Group member, Northwest Climate Adaptation Science Center “Deep Dive”
-* 2020	      Organizing committee member for first annual Digital Ag-athon at WSU
-* 2016-2020	  Graduate and Professional Student Association (GPSA) representative on WSU Sustainability and Environment Committee
-* 2018-Present	Member, Society for Conservation Biology
-* 2018-Present	Member, Society for Ecological Restoration
-* 2018-Present	Member, Ecological Society of America
-* 2019-Present	Member, Northwest Scientific Association
-* 2020-Present	Member, Society for Conservation GIS
-* 2015-2016	  Search committee member for Academic Advisor and Graduate Coordinator positions in SOE
-* 2014-2015	  Contributor to Strategic Planning Committee for SOE Undergraduate Programs
-* 2014-2015	  Learning Management Systems (LMS) Committee member, Early Adopter to support instructors in conversion to new LMS
-* 1995-1997 	Brown University Meiklejohn Advisor and Curricular Advising Program Fellow
-* 1995 		    Observer/evaluator for Wahteaounk Youth Project, Rhode Island Indian Council, Providence, RI
-* 1993-1995 	Member/Co-chair, Native American Advocacy Group at Brown University
+* 2021-2024  Education and Student Affairs Committee member, Society for Conservation Biology
+* 2021  LIFT (Learn. Inspire. Foster. Transform) Faculty Fellow, WSU Transformational Change Initiative	 
+* 2021  Advisory Working Group member, Northwest Climate Adaptation Science Center “Deep Dive”
+* 2020    Organizing committee member for first annual Digital Ag-athon at WSU
+* 2016-2020   Graduate and Professional Student Association (GPSA) representative on WSU Sustainability and Environment Committee
+* 2018-Present    Member, Society for Conservation Biology
+* 2018-Present    Member, Society for Ecological Restoration
+* 2018-Present    Member, Ecological Society of America
+* 2020-Present    Member, Society for Conservation GIS
+* 2019-2021    Member, Northwest Scientific Association
+* 2015-2016   Search committee member for Academic Advisor and Graduate Coordinator positions in SOE
+* 2014-2015   Contributor to Strategic Planning Committee for SOE Undergraduate Programs
+* 2014-2015   Learning Management Systems (LMS) Committee member, Early Adopter to support instructors in conversion to new LMS
+* 1995-1997   Brown University Meiklejohn Advisor and Curricular Advising Program Fellow
+* 1995    Observer/evaluator for Wahteaounk Youth Project, Rhode Island Indian Council, Providence, RI
+* 1993-1995   Member/Co-chair, Native American Advocacy Group at Brown University
