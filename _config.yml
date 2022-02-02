@@ -83,13 +83,13 @@ author:
   name             : "Amanda Stahl"
   avatar           : "profile.png"
   bio              : "Postdoctoral researcher in ecology, remote sensing, conservation science"
-  location         : "https://labs.wsu.edu/ecology/the-group/amanda-stahl/"
-  employer         : "Washington State University, USA"
+  location         : "Washington State University, USA"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8qB-798AAAAJ"
   email            : "atstahl@wsu.edu"
   researchgate     : "https://www.researchgate.net/profile/Amanda-Stahl-4"
-  uri              :
+  uri              : "https://labs.wsu.edu/ecology/the-group/amanda-stahl/"
   bitbucket        :
   codepen          :
   dribbble         :
