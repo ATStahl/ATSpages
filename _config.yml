@@ -83,8 +83,8 @@ author:
   name             : "Amanda Stahl"
   avatar           : "profile.png"
   bio              : "Postdoctoral researcher in ecology, remote sensing, conservation science"
-  location         : "Washington State University, USA"
-  employer         :
+  location         : "https://labs.wsu.edu/ecology/the-group/amanda-stahl/"
+  employer         : "Washington State University, USA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8qB-798AAAAJ"
   email            : "atstahl@wsu.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : "https://news.wsu.edu/2021/02/15/eyes-sky-help-make-streamside-ecosystems-sustainable/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/amandatysonstahl/"
   orcid            : "https://orcid.org/0000-0002-5813-1332"
   pinterest        :
   soundcloud       :
