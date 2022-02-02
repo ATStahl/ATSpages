@@ -21,7 +21,7 @@ Recent Work Experience
 * 2020-Present: Postdoctoral Research Associate
   * Washington State University
   * Duties included: Remote pilot and coordinator of operations for new drone in forest research lab; co-lead or collaborator for a variety of research projects related to remote sensing and applying GIS techniques in forested, agricultural, or streamside settings
-  * Supervisors: Professor A. Meddens, Professor A. Fremier
+  * Supervisors: Dr. A. Meddens, Dr. A. Fremier
 
 * Fall 2020, 2021: Instructor
   * Washington State University
@@ -37,7 +37,7 @@ Research Interests
 
 Recent Publications
 ======
-* Keeley, A. et al. (in press, BioScience). Governing ecological connectivity in cross-scale dependent systems.
+* Keeley, A. et al. 2022. Governing ecological connectivity in cross-scale dependent systems. BioScience. <a href="https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biab140/6510171">https://doi.org/10.1093/biosci/biab140</a>
 * Stahl, A.T. 2021. Cloud-Based Environmental Monitoring to Streamline Remote Sensing Analysis for Biologists. BioScience 71:1249-1260. <a href="https://doi.org/10.1093/biosci/biab100">https://doi.org/10.1093/biosci/biab100</a> with openly accessible scripts, documentation, and files in <a href="https://github.com/ATStahl/CBEM">https://github.com/ATStahl/CBEM</a> for users interested in learning the methods. For more information and access to the full text article with updated tutorial for developing your own maps in Google Earth Engine, see our User Library at <a href="https://labs.wsu.edu/ecology/research-projects/cbem-user-library/">https://labs.wsu.edu/ecology/research-projects/cbem-user-library</a>.
 * Stahl A. 2021. Mapping legal authority to build wildlife corridors along streams. Current Conservation 14.3.
 * Stahl, A.T., Fremier, A.K., and Cosens, B. (2020). Mapping legal authority for terrestrial conservation corridors along streams. Conservation Biology 34:943-955. <a href="https://doi.org/10.1111/cobi.13484">https://doi.org/10.1111/cobi.13484</a>
