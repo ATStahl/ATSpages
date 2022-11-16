@@ -30,9 +30,9 @@ Recent Work Experience
 
 Research Interests
 ======
-* Developing innovative, collaborative approaches to inform multiscale conservation planning and dynamic ecosystem management through spatial analysis and remote sensing
-* Understanding and visualizing concepts related to dynamic connectivity in ecosystems and the social capacity to coordinate conservation actions at ecologically relevant scales  
-* Identifying spatial opportunities to leverage conservation actions to enhance ecological resilience
+* Informing coordinated actions for climate adaptation, species conservation, and sustainable land and resource management through geospatial analysis and remote sensing
+* Understanding and visualizing concepts related to dynamic connectivity in ecosystems and the social capacity to coordinate individual or community-based actions at ecologically relevant scales  
+* Identifying opportunities to broaden implementation of conservation practices on working lands with more inclusive approaches to governance
 
 
 Recent Publications
