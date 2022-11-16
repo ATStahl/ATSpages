@@ -46,11 +46,14 @@ Recent Publications
 
 Talks
 ======
+* Stahl, A.T. 2022. Riparian Conservation: Why and Where It Matters to People and Nature. Conservation Talk Series hosted by Palouse Conservation District, WA.
+* Stahl, A.T. and Fremier, A.K. 2022. Translatability of lessons learned from adaptive governance experiments across socio-economic contexts. 2022 Toronto Conference on Earth System Governance.
+* Stahl, A.T. 2022. Filling gaps in ecosystem monitoring with GIS and Google Earth Engine. Society for Conservation GIS Annual Conference.
 * Stahl, A.T. 2022. Broadening and streamlining access to remote sensing data for natural scientists and natural resource professionals. DSOS22: Virtual Summit in Data Science and Open Science for Aquatic Research.
 * Stahl, A.T. 2022. Update on effective and efficient riparian monitoring with drone and satellite data. Eastern Washington Riparian Planting Symposium.
 * Stahl, A.T. 2022. Timely cover classification to track vegetation change in Google Earth Engine. Michigan State University.
 * Stahl, A.T. 2022. Mapping land cover change at watershed scales in Google Earth Engine. Voluntary Stewardship Program Monitoring Symposium.
-* Swanson, M.E., Nelson, A.S., Adams, H.D., Meddens, A.J.H., Stahl, A.T., and Engstrom,R.T.  2022.  Microsite effects on ponderosa pine and Douglas-fir seedling survival and growth.  Invited presentation, 41st Inland Empire Reforestation Council Annual Meeting, Western Forestry and Conservation Association.  Coeur d’Alene Resort, Coeur d’Alene, Idaho.  
+* Swanson, M.E., Nelson, A.S., Adams, H.D., Meddens, A.J.H., Stahl, A.T., and Engstrom,R.T.  2022.  Microsite effects on ponderosa pine and Douglas-fir seedling survival and growth.  Invited presentation, 41st Inland Empire Reforestation Council Annual Meeting, Western Forestry and Conservation Association.
 * Stahl, A.T. 2021. Adding Earth Engine to the conservation toolbox. Google’s Geo for good Summit 2021.
 * Stahl, A.T. 2021. Adding satellite data to the toolbox of conservation professionals with Earth Engine. Geo for Good Lightning Talks Series #5: Nature Conservation.
 * Stahl, A.T. 2021. Developing practical remote sensing workflows for ecosystem monitoring. Invited presentation at the Washington Association of District Employees Annual Meeting.
