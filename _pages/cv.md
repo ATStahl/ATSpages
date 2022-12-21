@@ -21,11 +21,11 @@ Recent Work Experience
 * 2020-Present: Postdoctoral Research Associate
   * Washington State University
   * Duties included: Remote pilot and coordinator of operations for new drone in forest research lab; co-lead or collaborator for a variety of research projects related to remote sensing and applying GIS techniques in forested, agricultural, or streamside settings
-  * Supervisors: Dr. A. Meddens, Dr. A. Fremier
+  * Supervisor: Dr. A. Meddens
 
 * Fall 2020-Present: Instructor
   * Washington State University
-  * Duties included: Curriculum development and instruction for Field Methods for Careers in Natural Sciences
+  * Duties included: Curriculum development and instruction for SOE 204: Field Methods for Careers in Natural Sciences and SOE 450: Conservation Biology
 
 
 Research Interests
@@ -37,10 +37,11 @@ Research Interests
 
 Recent Publications
 ======
+* Stahl, A.T., et al. in press. Automated attribution of forest disturbance types from remote sensing data: A synthesis. Remote Sensing of Environment. https://doi.org/10.1016/j.rse.2022.113416 Full article (for limited time): <a href ="https://authors.elsevier.com/a/1gHfs7qzSxcRd">https://authors.elsevier.com/a/1gHfs7qzSxcRd</a>
 * Keeley, A. et al. 2022. Governing ecological connectivity in cross-scale dependent systems. BioScience. <a href="https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biab140/6510171">https://doi.org/10.1093/biosci/biab140</a>
-* Stahl, A.T. 2021. Cloud-Based Environmental Monitoring to Streamline Remote Sensing Analysis for Biologists. BioScience 71:1249-1260. <a href="https://doi.org/10.1093/biosci/biab100">https://doi.org/10.1093/biosci/biab100</a> with openly accessible scripts, documentation, and files in <a href="https://github.com/ATStahl/CBEM">https://github.com/ATStahl/CBEM</a> for users interested in learning the methods. For more information and access to the full text article with updated tutorial for developing your own maps in Google Earth Engine, see our User Library at <a href="https://labs.wsu.edu/ecology/research-projects/cbem-user-library/">https://labs.wsu.edu/ecology/research-projects/cbem-user-library</a>.
+* Stahl, A.T., et al. 2021. Cloud-Based Environmental Monitoring to Streamline Remote Sensing Analysis for Biologists. BioScience 71:1249-1260. <a href="https://doi.org/10.1093/biosci/biab100">https://doi.org/10.1093/biosci/biab100</a> with openly accessible scripts, documentation, and files in <a href="https://github.com/ATStahl/CBEM">https://github.com/ATStahl/CBEM</a> for users interested in learning the methods. For more information and access to the full text article with updated tutorial for developing your own maps in Google Earth Engine, see our User Library at <a href="https://labs.wsu.edu/ecology/research-projects/cbem-user-library/">https://labs.wsu.edu/ecology/research-projects/cbem-user-library</a>.
 * Stahl A. 2021. Mapping legal authority to build wildlife corridors along streams. Current Conservation 14.3.
-* Stahl, A.T., Fremier, A.K., and Cosens, B. (2020). Mapping legal authority for terrestrial conservation corridors along streams. Conservation Biology 34:943-955. <a href="https://doi.org/10.1111/cobi.13484">https://doi.org/10.1111/cobi.13484</a>
+* Stahl, A.T., et al. 2020. Mapping legal authority for terrestrial conservation corridors along streams. Conservation Biology 34:943-955. <a href="https://doi.org/10.1111/cobi.13484">https://doi.org/10.1111/cobi.13484</a>
 * Stahl, A.T. 2020. Bridging the gaps in riverine corridor conservation to enhance ecological resilience. PhD Dissertation, Washington State University, August 2020.
 
 
