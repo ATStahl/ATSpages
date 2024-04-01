@@ -21,11 +21,10 @@ Recent Work Experience
 * 2020-Present: Postdoctoral Research Associate
   * Washington State University
   * Duties included: Remote pilot and coordinator of operations for new drone in forest research lab; co-lead or collaborator for a variety of research projects related to remote sensing and applying GIS techniques in forested, agricultural, or streamside settings
-  * Supervisor: Dr. A. Meddens
 
-* Fall 2020-Present: Instructor
+* Fall 2020-Present: Lecturer
   * Washington State University
-  * Duties included: Curriculum development and instruction for SOE 204: Field Methods for Careers in Natural Sciences and SOE 450: Conservation Biology
+  * Duties included: Curriculum development and instruction for Field Methods for Careers in Natural Sciences, Restoration Ecology, and Conservation Biology
 
 
 Research Interests
