@@ -47,6 +47,7 @@ Recent Publications
 
 Talks
 ======
+* Stahl, A.T. 2023. Drones in riparian monitoring. Washington Association of District Employees Annual Meeting. Leavenworth, WA.
 * Stahl, A.T. 2022. Riparian Conservation: Why and Where It Matters to People and Nature. Conservation Talk Series hosted by Palouse Conservation District, WA.
 * Stahl, A.T. and Fremier, A.K. 2022. Translatability of lessons learned from adaptive governance experiments across socio-economic contexts. 2022 Toronto Conference on Earth System Governance.
 * Stahl, A.T. 2022. Filling gaps in ecosystem monitoring with GIS and Google Earth Engine. Society for Conservation GIS Annual Conference.
