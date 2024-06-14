@@ -18,7 +18,11 @@ Education
 
 Recent Work Experience
 ======
-* 2020-Present: Postdoctoral Research Associate
+* 2024-Present: Research Associate
+  * Washington State University
+  * Duties included: Co-PI or primary researcher on projects involving geospatial analysis or remote sensing related to environmental conservation and sustainable land and resource management. Current project topics include climate-adaptive post-fire forest recovery and multiscale mapping of wildlife habitat characteristics across landscapes 
+
+* 2020-2024: Postdoctoral Research Associate
   * Washington State University
   * Duties included: Remote pilot and coordinator of operations for new drone in forest research lab; co-lead or collaborator for a variety of research projects related to remote sensing and applying GIS techniques in forested, agricultural, or streamside settings
 
@@ -26,17 +30,20 @@ Recent Work Experience
   * Washington State University
   * Duties included: Curriculum development and instruction for Field Methods for Careers in Natural Sciences, Restoration Ecology, and Conservation Biology
 
-
-Research Interests
+Research Themes
 ======
-* Informing coordinated actions for climate adaptation, species conservation, and sustainable land and resource management through geospatial analysis and remote sensing
-* Understanding and visualizing concepts related to dynamic connectivity in ecosystems and the social capacity to coordinate individual or community-based actions at ecologically relevant scales  
-* Identifying opportunities to broaden implementation of conservation practices on working lands with more inclusive approaches to governance
+  * Inform ecological restoration, biodiversity conservation, and climate adaptation in landscape context 
+  * Understand and visualize concepts related to ecosystem dynamics and the capacity to coordinate individual or community-based actions at ecologically relevant scales  
+  * Identify opportunities to broaden implementation of conservation practices on working lands with more inclusive approaches to governance and monitoring
+
 
 
 Recent Publications
 ======
-* Stahl, A.T., Fremier, A.K. 2023. Translatability of water governance experiments across settings and scales. Ecology and Society 28, art42. https://ecologyandsociety.org/vol28/iss1/art42/ 
+* Celebrezze, J., Franz, M., Andrus, R., Steen-Adams, M.M., Stahl, A.T., & Meddens, A.J.H. 2024. A fast spectral recovery does not necessarily indicate post-fire forest recovery. Fire Ecology. <a href="https://doi.org/10.1186/s42408-024-00288-6">https://doi.org/10.1186/s42408-024-00288-6</a>
+* Shrestha, A., Hicke, J., Meddens, A., Karl, J., and Stahl, A. 2024. Detecting insect damage to tree crowns with drone imagery. Remote Sensing 16, 1365. <a href="https://doi.org/10.3390/rs16081365">https://doi.org/10.3390/rs16081365</a>
+* Stahl, A.T., Andrus, A., Hicke, J.A., Hudak, A.T., Bright, B.C., Meddens, A.J.H. 2023. Automated attribution of forest disturbance types from remote sensing data: A synthesis. Remote Sensing of Environment 285, 113416. <a href="https://doi.org/10.1016/j.rse.2022.113416">https://doi.org/10.1016/j.rse.2022.113416</a>
+* Stahl, A.T., Fremier, A.K. 2023. Translatability of water governance experiments across settings and scales. Ecology and Society 28, art42. <a href="https://ecologyandsociety.org/vol28/iss1/art42/">https://ecologyandsociety.org/vol28/iss1/art42/</a>
 * Stahl, A.T., et al. 2023. Automated attribution of forest disturbance types from remote sensing data: A synthesis. Remote Sensing of Environment 285, 113416. https://doi.org/10.1016/j.rse.2022.113416 <a href ="https://www.researchgate.net/publication/366839873_Automated_attribution_of_forest_disturbance_types_from_remote_sensing_data_A_synthesis?_sg%5B0%5D=hsidnPjRw_zf7617qsqC1crHsFBBYDl6KQ24VQswswUvMKtYkTauErhc4C2z48b4RXEumdZ63sjk0X9qQM5JXM3RINqJqm7dF_I0tES5.pbgfU6l0ci3EuN0h3EjlggSZZ6bQWxpzhLk802Aq0wVolo4WaX09uvNcH47u7Nhg3bHBUNr2BZZH9DqGZxa5sw">Request full-text article</a>
 * Keeley, A. et al. 2022. Governing ecological connectivity in cross-scale dependent systems. BioScience. <a href="https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biab140/6510171">https://doi.org/10.1093/biosci/biab140</a>
 * Stahl, A.T., et al. 2021. Cloud-Based Environmental Monitoring to Streamline Remote Sensing Analysis for Biologists. BioScience 71:1249-1260. <a href="https://doi.org/10.1093/biosci/biab100">https://doi.org/10.1093/biosci/biab100</a> with openly accessible scripts, documentation, and files in <a href="https://github.com/ATStahl/CBEM">https://github.com/ATStahl/CBEM</a> for users interested in learning the methods. For more information and access to the full text article with updated tutorial for developing your own maps in Google Earth Engine, see our User Library at <a href="https://labs.wsu.edu/ecology/research-projects/cbem-user-library/">https://labs.wsu.edu/ecology/research-projects/cbem-user-library</a>.
