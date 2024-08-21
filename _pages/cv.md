@@ -20,13 +20,16 @@ Recent Work Experience
 ======
 * 2024-Present: Research Associate
   * Washington State University
-  * Duties included: Co-PI or primary researcher on projects involving geospatial analysis or remote sensing related to environmental conservation and sustainable land and resource management. Current project topics include climate-adaptive post-fire forest recovery and multiscale mapping of wildlife habitat characteristics across landscapes 
+  * Duties included:
+    * Co-PI or primary researcher on projects involving geospatial analysis or remote sensing related to environmental conservation and sustainable land and resource management.
+    * Current topics include climate-adaptive post-fire forest recovery and multiscale mapping of wildlife habitat characteristics across landscapes.
+    * Lead instructor for three undergraduate courses: Field Methods for Careers in the Natural Sciences, Conservation Biology, Restoration Ecology
 
 * 2020-2024: Postdoctoral Research Associate
   * Washington State University
   * Duties included: Remote pilot and coordinator of operations for new drone in forest research lab; co-lead or collaborator for a variety of research projects related to remote sensing and applying GIS techniques in forested, agricultural, or streamside settings
 
-* Fall 2020-Present: Lecturer
+* 2020-2023: Lecturer
   * Washington State University
   * Duties included: Curriculum development and instruction for Field Methods for Careers in Natural Sciences, Restoration Ecology, and Conservation Biology
 
@@ -35,8 +38,6 @@ Research Themes
   * Inform ecological restoration, biodiversity conservation, and climate adaptation in landscape context 
   * Understand and visualize concepts related to ecosystem dynamics and the capacity to coordinate individual or community-based actions at ecologically relevant scales  
   * Identify opportunities to broaden implementation of conservation practices on working lands with more inclusive approaches to governance and monitoring
-
-
 
 Recent Publications
 ======
@@ -50,7 +51,6 @@ Recent Publications
 * Stahl A. 2021. Mapping legal authority to build wildlife corridors along streams. Current Conservation 14.3.
 * Stahl, A.T., et al. 2020. Mapping legal authority for terrestrial conservation corridors along streams. Conservation Biology 34:943-955. <a href="https://doi.org/10.1111/cobi.13484">https://doi.org/10.1111/cobi.13484</a>
 * Stahl, A.T. 2020. Bridging the gaps in riverine corridor conservation to enhance ecological resilience. PhD Dissertation, Washington State University, August 2020.
-
 
 Talks
 ======
@@ -76,10 +76,9 @@ Talks
 * Stahl, A.T., Fremier, A.K., and Cosens, B., 2017. Building a habitat network for aquatic and terrestrial connectivity. WA-BC Chapter of the American Fisheries Society Meeting.
 * Stahl, A.T., Fremier, A.K., Kiparsky, M., Scott, J.M., 2016. Riparian Corridor Selection for Connectivity and Ecological Resilience. Tamarisk Coalition 2016 Conference.
 
-
 Additional Teaching Experience
 ======
-* 2016-2021	  Guest Lecturer, various courses at Washington State University
+* 2016-2024	  Guest Lecturer, various courses at Washington State University
 * Spring 2019	Graduate Teaching Assistant, Watershed Management (SOE 461), WSU
 * Fall 2018	  Graduate Teaching Assistant, Restoration Ecology (SOE 454), WSU
 * 2008-2016 	SOE Undergraduate Labs Coordinator, WSU Pullman Campus
@@ -87,8 +86,6 @@ Additional Teaching Experience
 * 2003-2005 	Geology Lab Director, Mount Holyoke College, South Hadley, Massachusetts 	
 * 2000-2002 	Graduate Teaching Assistant, University of New Mexico, Albuquerque
 * 1995-1997 	Undergraduate Teaching Assistant, Brown University, Providence, Rhode Island
-
-
 
 Service and leadership
 ======
