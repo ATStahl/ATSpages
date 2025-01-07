@@ -41,6 +41,7 @@ Research Themes
 
 Recent Publications
 ======
+* Hicke, J.A.; Bright, B.C.; Hanavan, R.P.; Hudak, A.T.; Meddens, A.J.H.; Shrestha, A.; Stahl, A.T. 2024. Remote sensing of forest insect and disease outbreaks in the western United States: Tree, stand, and landscape responses and technologies and methods for detection and attribution. RMRS-GTR-443. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. 92 p. <a href="https://doi.org/10.2737/RMRS-GTR-443">https://doi.org/10.2737/RMRS-GTR-443</a>
 * Celebrezze, J., Franz, M., Andrus, R., Steen-Adams, M.M., Stahl, A.T., & Meddens, A.J.H. 2024. A fast spectral recovery does not necessarily indicate post-fire forest recovery. Fire Ecology. <a href="https://doi.org/10.1186/s42408-024-00288-6">https://doi.org/10.1186/s42408-024-00288-6</a>
 * Shrestha, A., Hicke, J., Meddens, A., Karl, J., and Stahl, A. 2024. Detecting insect damage to tree crowns with drone imagery. Remote Sensing 16, 1365. <a href="https://doi.org/10.3390/rs16081365">https://doi.org/10.3390/rs16081365</a>
 * Stahl, A.T., Andrus, A., Hicke, J.A., Hudak, A.T., Bright, B.C., Meddens, A.J.H. 2023. Automated attribution of forest disturbance types from remote sensing data: A synthesis. Remote Sensing of Environment 285, 113416. <a href="https://doi.org/10.1016/j.rse.2022.113416">https://doi.org/10.1016/j.rse.2022.113416</a>
