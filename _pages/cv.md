@@ -63,7 +63,6 @@ Talks
 * Stahl, A.T. 2022. Update on effective and efficient riparian monitoring with drone and satellite data. Eastern Washington Riparian Planting Symposium.
 * Stahl, A.T. 2022. Timely cover classification to track vegetation change in Google Earth Engine. Michigan State University.
 * Stahl, A.T. 2022. Mapping land cover change at watershed scales in Google Earth Engine. Voluntary Stewardship Program Monitoring Symposium.
-* Swanson, M.E., Nelson, A.S., Adams, H.D., Meddens, A.J.H., Stahl, A.T., and Engstrom,R.T.  2022.  Microsite effects on ponderosa pine and Douglas-fir seedling survival and growth.  Invited presentation, 41st Inland Empire Reforestation Council Annual Meeting, Western Forestry and Conservation Association.
 * Stahl, A.T. 2021. Adding Earth Engine to the conservation toolbox. Google’s Geo for good Summit 2021.
 * Stahl, A.T. 2021. Adding satellite data to the toolbox of conservation professionals with Earth Engine. Geo for Good Lightning Talks Series #5: Nature Conservation.
 * Stahl, A.T. 2021. Developing practical remote sensing workflows for ecosystem monitoring. Invited presentation at the Washington Association of District Employees Annual Meeting.
