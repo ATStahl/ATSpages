@@ -21,7 +21,7 @@ Recent Work Experience
 * 2024-Present: Research Associate
   * Washington State University
   * Duties included:
-    * Co-PI or primary researcher on projects involving geospatial analysis or remote sensing related to environmental conservation and sustainable land and resource management.
+    * Primary or co-investigator for projects involving geospatial analysis or remote sensing related to environmental conservation and sustainable land and resource management.
     * Current topics include climate-adaptive post-fire forest recovery and multiscale mapping of wildlife habitat characteristics across landscapes.
     * Lead instructor for three undergraduate courses: Field Methods for Careers in the Natural Sciences, Conservation Biology, Restoration Ecology
 
