@@ -90,6 +90,7 @@ Additional Teaching Experience
 
 Service and leadership
 ======
+* 2025 Faculty Fellow, Northwest Climate Adaptation Science Center
 * 2021-2024  Education and Student Affairs Committee member, Society for Conservation Biology
 * 2021  LIFT (Learn. Inspire. Foster. Transform) Faculty Fellow, WSU Transformational Change Initiative	 
 * 2021  Advisory Working Group member, Northwest Climate Adaptation Science Center “Deep Dive”
