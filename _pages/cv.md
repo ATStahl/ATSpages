@@ -79,7 +79,7 @@ Talks
 
 Additional Teaching Experience
 ======
-* 2016-2024	  Guest Lecturer, various courses at Washington State University
+* 2016-Present	  Guest Lecturer, various courses at Washington State University
 * Spring 2019	Graduate Teaching Assistant, Watershed Management (SOE 461), WSU
 * Fall 2018	  Graduate Teaching Assistant, Restoration Ecology (SOE 454), WSU
 * 2008-2016 	SOE Undergraduate Labs Coordinator, WSU Pullman Campus
